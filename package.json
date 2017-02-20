@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-axa-base",
+  "name": "@axa-ch/stylelint-config-axa-base",
   "version": "1.0.0",
   "description": "AXA's base StyleLint RC, extending standard stylelint config",
   "main": "index.js",
