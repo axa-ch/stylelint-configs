@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/axa-ch/stylelint-config-axa-bem/issues"
   },
-  "homepage": "https://github.com/axa-ch/stylelint-config-axa-bem#readme"
+  "homepage": "https://github.com/axa-ch/stylelint-config-axa-bem#readme",
+  "dependencies": {
+    "stylelint-selector-bem-pattern": "^1.0.0"
+  }
 }
