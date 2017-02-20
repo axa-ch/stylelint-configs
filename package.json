@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/axa-ch/stylelint-config-axa-base/issues"
   },
-  "homepage": "https://github.com/axa-ch/stylelint-config-axa-base#readme"
+  "homepage": "https://github.com/axa-ch/stylelint-config-axa-base#readme",
+  "devDependencies": {
+    "stylelint-config-standard": "^16.0.0"
+  }
 }
