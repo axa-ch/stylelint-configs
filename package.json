@@ -20,7 +20,7 @@
     "url": "https://github.com/axa-ch/stylelint-config-axa-base/issues"
   },
   "homepage": "https://github.com/axa-ch/stylelint-config-axa-base#readme",
-  "devDependencies": {
+  "dependencies": {
     "stylelint-config-standard": "^16.0.0"
   }
 }
