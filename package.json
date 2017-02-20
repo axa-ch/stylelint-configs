@@ -1,0 +1,23 @@
+{
+  "name": "stylelint-config-axa-base",
+  "version": "1.0.0",
+  "description": "AXA's base StyleLint RC, extending standard stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axa-ch/stylelint-config-axa-base.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelintconfig"
+  ],
+  "author": "AXA Versicherungen AG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axa-ch/stylelint-config-axa-base/issues"
+  },
+  "homepage": "https://github.com/axa-ch/stylelint-config-axa-base#readme"
+}
