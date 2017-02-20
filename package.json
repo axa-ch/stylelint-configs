@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/axa-ch/stylelint-config-axa-scss/issues"
   },
-  "homepage": "https://github.com/axa-ch/stylelint-config-axa-scss#readme"
+  "homepage": "https://github.com/axa-ch/stylelint-config-axa-scss#readme",
+  "dependencies": {
+    "stylelint-scss": "^1.4.3"
+  }
 }
