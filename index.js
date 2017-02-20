@@ -12,6 +12,6 @@ module.exports = {
         initial: '^\\.(?:no-)?js|\\.{componentName}(?:__{reComponentName})*(?:--{reComponentName})?(?:\\.(?:is|has)-{reComponentName})*(?:\\[.*\\])*|\\.(?:is|has)-{reComponentName}(?:\\.{reComponentName})?$'.replace(/\{reComponentName}/gm, reComponentName),
         combined: '^\\.{reComponentName}(?:__{reComponentName})*(?:--{reComponentName})?|\\[.*\\]$'.replace(/\{reComponentName}/gm, reComponentName)
       }
-    },
+    }
   }
 }
