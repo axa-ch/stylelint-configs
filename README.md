@@ -1,6 +1,6 @@
 # stylelint-config-axa-scss
 
-AXA's BEM StyleLint RC
+AXA's SCSS StyleLint RC
 
 # Usage
 
