@@ -22,3 +22,18 @@ AXA's base StyleLint RC, extending [standard stylelint config](https://github.co
   ```
 
 3. Add `"exetnds": "@axa-ch/stylelint-config-axa-base"` to your .stylelintrc
+
+# Plugins
+
+This rc incorporates [`stylelint-order`](https://www.npmjs.com/package/stylelint-order) and [`stylelint-declaration-strict-value`](https://www.npmjs.com/package/stylelint-declaration-strict-value) plugins.
+
+## stylelint-order
+
+CSS properties are ordered and group according to the following:
+
+1. Positioning
+2. Box-Model
+3. Flex-Container
+4. Flex-Children
+5. Typography
+6. Visual
