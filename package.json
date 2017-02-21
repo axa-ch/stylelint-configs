@@ -22,5 +22,9 @@
   "homepage": "https://github.com/axa-ch/stylelint-config-axa-base#readme",
   "dependencies": {
     "stylelint-config-standard": "^16.0.0"
+  },
+  "devDependencies": {
+    "stylelint-declaration-strict-value": "^1.0.3",
+    "stylelint-order": "^0.3.0"
   }
 }
