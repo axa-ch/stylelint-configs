@@ -20,6 +20,9 @@
     "url": "https://github.com/axa-ch/stylelint-config-axa-base/issues"
   },
   "homepage": "https://github.com/axa-ch/stylelint-config-axa-base#readme",
+  "peerDependencies": {
+    "stylelint": ">= 7.8"
+  },
   "dependencies": {
     "stylelint-config-standard": "^16.0.0",
     "stylelint-declaration-strict-value": "^1.0.3",
